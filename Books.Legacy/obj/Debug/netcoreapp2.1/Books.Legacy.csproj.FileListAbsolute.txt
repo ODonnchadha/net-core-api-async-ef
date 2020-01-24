@@ -1,0 +1,16 @@
+C:\tmp\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.deps.json
+C:\tmp\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.dll
+C:\tmp\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.pdb
+C:\tmp\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.csproj.CoreCompileInputs.cache
+C:\tmp\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.AssemblyInfoInputs.cache
+C:\tmp\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.AssemblyInfo.cs
+C:\tmp\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.dll
+C:\tmp\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.pdb
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.deps.json
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.dll
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\bin\Debug\netcoreapp2.1\Books.Legacy.pdb
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.csprojAssemblyReference.cache
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.AssemblyInfoInputs.cache
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.AssemblyInfo.cs
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.dll
+C:\GitHub\ODonnchadha\net-core-api-async-ef\Books.Legacy\obj\Debug\netcoreapp2.1\Books.Legacy.pdb

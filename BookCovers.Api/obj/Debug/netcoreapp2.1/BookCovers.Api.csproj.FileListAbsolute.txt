@@ -1,0 +1,13 @@
+C:\tmp\net-core-api-async-ef\BookCovers.Api\bin\Debug\netcoreapp2.1\BookCovers.Api.deps.json
+C:\tmp\net-core-api-async-ef\BookCovers.Api\bin\Debug\netcoreapp2.1\BookCovers.Api.runtimeconfig.json
+C:\tmp\net-core-api-async-ef\BookCovers.Api\bin\Debug\netcoreapp2.1\BookCovers.Api.runtimeconfig.dev.json
+C:\tmp\net-core-api-async-ef\BookCovers.Api\bin\Debug\netcoreapp2.1\BookCovers.Api.dll
+C:\tmp\net-core-api-async-ef\BookCovers.Api\bin\Debug\netcoreapp2.1\BookCovers.Api.pdb
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.csproj.CoreCompileInputs.cache
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.RazorAssemblyInfo.cache
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.RazorAssemblyInfo.cs
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.AssemblyInfoInputs.cache
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.AssemblyInfo.cs
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.RazorTargetAssemblyInfo.cache
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.dll
+C:\tmp\net-core-api-async-ef\BookCovers.Api\obj\Debug\netcoreapp2.1\BookCovers.Api.pdb
